@@ -52,12 +52,7 @@ sequence and the methods: for computing the longest run of an STR
 (`longest_run`), and for evaluating whether a suspect with a known DNA profile
 matches the sequence or not (`match_suspect`).
 
-```python3
-```
-
-
 
 You can test your solution locally by running: `python exercise.py -v`
 
-Since I'm not a biologist, the biological terminology is probably not accurate:
-please, suggest corrections on Zulip!
+Since I'm not a biologist, there are no guarantees about the biological terminology!
